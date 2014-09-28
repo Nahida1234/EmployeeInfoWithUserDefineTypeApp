@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\bin\Debug\EmployeeInfoWithPrimitiveTypeApp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\bin\Debug\EmployeeInfoWithPrimitiveTypeApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\bin\Debug\EmployeeInfoWithPrimitiveTypeApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithPrimitiveTypeApp\EmployeeInfoWithPrimitiveTypeApp\obj\Debug\EmployeeInfoWithPrimitiveTypeApp.EmployeeInfoFormUI.resources
